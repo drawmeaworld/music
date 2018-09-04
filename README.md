@@ -1,7 +1,7 @@
 # Music
-School blocked music sites so we will use widgets to access music
+one sneaky boi
 # Current profiles
-Darren (Tuesday, 4th of September 2018, 4:16 PM)
+Homie Darren (Tuesday, 4th of September 2018, 4:16 PM)
 # Supported:
 - SoundCloud
 - Spotify
